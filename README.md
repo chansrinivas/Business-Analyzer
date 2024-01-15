@@ -3,7 +3,7 @@
 ## Overview
 The main goal is to work on lists in the collection framework in Java.The data Analyzer analyzes data from the dataset and answer queries given by the user about the data set.
 <p align="center">
-  <img src="./sample.png" alt="Sample Screenshot" width="600">
+  <img src="./sample.png" alt="Sample Screenshot" width="500">
 </p>
 
 ## Main outline 
